@@ -1,4 +1,6 @@
 # Fundamentalists and quotemining
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Forwell1984%2Ffundamentalists-and-quotemining.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Forwell1984%2Ffundamentalists-and-quotemining?ref=badge_shield)
+
 
 This project aims to create a comprehensive list of major quotemining done by fundamentalist churches.
 Debunking outright lies and blatant maniputaion should be easier than it is today. Together we can stop misinformation from spreading.
@@ -21,3 +23,7 @@ The quote should adhere to the following layout
 * Author: Full name of the person whose words are being quoted, if singular. All known authors, if many are attributed. Preferrably followed by Wikipedia link to their biographical page. 
 * Remarks. Short remark by person submitting this quote with possible additional information for a reader to consider. Please refrain from sarcasm and insults.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Forwell1984%2Ffundamentalists-and-quotemining.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Forwell1984%2Ffundamentalists-and-quotemining?ref=badge_large)
